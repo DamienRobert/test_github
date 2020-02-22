@@ -9,4 +9,8 @@ class TestTestGitHub < Minitest::Test
     assert(!version.empty?, 'should have a VERSION constant')
   end
 
+  def test_method
+    r=TestGitHub.test
+    assert(r == 'test', 'the test output should be "test"')
+  end
 end
