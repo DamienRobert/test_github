@@ -1,4 +1,4 @@
-name: test_github
+name: test-github
 summary: "Test for github"
 description: "Should never be published"
 license: MIT
