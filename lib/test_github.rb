@@ -11,4 +11,9 @@ module TestGitHub
   def test
     "test"
   end
+
+  # foobarify
+  def foobar
+    "foobar"
+  end
 end
