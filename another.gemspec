@@ -27,4 +27,6 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
+  # to push to github repo
+  gem.metadata = { "github_repo" => "ssh://github.com/DamienRobert/test_github" }
 end
