@@ -1,6 +1,6 @@
 # Test github pages
 
-Thi should support
+This should support
 - markdown
 - list
 

@@ -1,2 +1,4 @@
-/.yardoc
+/.yardoc/
 /pkg
+/_site/
+/.jekyll-cache/
