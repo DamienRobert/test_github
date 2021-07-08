@@ -11,4 +11,20 @@ module TestGitHub
   def test
     "test"
   end
+
+  def ugly_method
+    if true
+      if true
+        if true
+          if true
+            if true
+              if true
+                true
+              end
+            end
+          end
+        end
+      end
+    end
+  end
 end
